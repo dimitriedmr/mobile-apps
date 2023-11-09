@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Estimate</string>
+    <string name="first_fragment_label">Add number</string>
+    <string name="second_fragment_label">Hidden</string>
+    <string name="next">Hide</string>
+    <string name="previous">Show</string>
+    <string name="ask">add</string>
+</resources>
